@@ -1,3 +1,0 @@
-# Adsterra
-adsterra.com, pub-mysleepcalculator, DIRECT
-# Replace with your Adsterra publisher ID once you log in to your Adsterra account > Profile > ads.txt
