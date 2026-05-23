@@ -1,7 +1,7 @@
 {
   "name": "My Sleep Calculator",
   "short_name": "Sleep Calc",
-  "description": "Free Sleep Calculator – best bedtime and wake-up time based on 90-minute sleep cycles.",
+  "description": "Free Sleep Calculator â€“ best bedtime and wake-up time based on 90-minute sleep cycles.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f6f7ff",
